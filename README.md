@@ -2,7 +2,7 @@
 
 VibeZone is a social media platform built using the MERN (MongoDB, Express, React, Node.js) stack, allowing friends to connect, share posts, and have fun.
 
-## 🚀 Features
+## Features
 
 - User authentication (JWT-based)
 - Post creation and sharing
@@ -95,11 +95,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📧 Contact
 
-For inquiries, reach out at [your-email@example.com](mailto:your-email@example.com).
-
-## 📜 License
-
-This project is licensed under the MIT License.
+For inquiries, reach out at [anow47@yahoo.com](mailto:anow47@yahoo.com).
 
 ---
-Made with ❤️ by VibeZone Team.
+Thank you for visting ❤️.
+Hamouda Mohammed.
